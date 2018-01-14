@@ -1,0 +1,183 @@
+Source control: It's more than just a backup copy of your work!
+Managing Expectations: There's more to being a good developer than just writing code
+Testing - it's not just for professors any more.
+How to talk to customers. The customer may not always be right... but they're always the customer.
+
+Machine Level
+console
+file system navigation
+symlinks
+curl
+git
+branching strategy
+bash
+oh-my-zsh
+internet and your browser
+http request
+dns
+traceroute
+ping
+localhost / 127.0.0.1
+hosts file
+CDN
+server side
+sessions
+cache
+web server
+proxy
+gateway
+physical, VM, docker
+compose
+swarm
+
+Program Types
+IoT (raspberry pi)
+web (node)
+api (node)
+desktop (C#, react local)
+mobile (react native)
+client / server
+hardware (scanner)
+console
+bots - beepboophq
+
+Software Development Life Cycle
+branching strategies
+centralized / decentralized
+gitflow
+githubflow
+CI/CD
+continuous integration
+continuous delivery
+continuous deployment
+dark launching / feature toggling
+RDBMS database migrations
+project/team management
+agile
+waterfall
+kanban
+scrum
+extreme programming
+trello
+pivotal tracker
+github issues
+pair programming
+DevOps
+chat ops
+measure anything, measure everything
+dashboards
+hystrix
+test driven development (TDD)
+estimation
+PERT
+2 standard deviation
+technical debt
+definition of done
+churn
+during reqts, dev, qa
+
+Languages and Frameworks
+html
+css
+bootstrap
+google material
+reset
+javascript
+react
+react native
+node
+json
+angular
+lodash
+REST
+MVC
+gulp/grunt
+
+Algorithms & Design Patterns
+CQRS
+Unit of work
+Domain Driven Design
+Sync vs Async
+CAP theorem
+Fallacies of distributed computing
+SOLID
+DRY
+circuit breakers
+gateways
+MVC
+messaging/queueing
+microservices vs. monolithic
+
+Soft Skills
+debugging
+testing
+unit testing
+integration testing
+functional testing
+performance testing
+load testing
+api testing (runscope)
+imposter syndrome
+it doesn't work and I don't know why, now it works and I don't know why
+how to learn
+youtube
+Google
+pluralsight, linda (LinkedIn), etc.
+memorize the terms, familiarize with concepts
+SEO
+resume
+brand
+immulate popular devs in your space
+meetups/usergroups
+oss contributions
+community
+code kata's / practice
+tell them everything - raise problems early
+no blame culture
+work environments - working with others
+noise expectations
+politics / gossip
+office hours
+in-office relaxation
+happy hours
+games - pingpong, foosball, cornhole
+hackathons
+Communication
+public speaking
+presenting
+writing
+peer reviews and mentoring 
+core values
+Trust
+Transparency
+Relationships
+Continuous improvement
+Learning
+Supporting
+Servant leadership
+Blameless
+Pragmatism
+Celebrate behavior, kudos
+how to perform 1-1's, standups, weekly demos, retro's
+timesheets
+servant leader
+feedback loops - get constant feedback for continuous process improvement
+day 1 wiki documentation
+get code
+build code
+fix a bug
+test
+peer review
+deploy
+HR basics
+PTO
+rule of thumb - 1 week notice per day requested
+does it rollover?
+is it capped?
+401k - what is it? what is a match?
+office hour expectations
+dress code
+WFH - how to handle equipment deliveries, sick dog, etc
+introduce to team, ask for bio, fun picture
+when can i take a break?
+stock options; vesting, strike price
